@@ -1,0 +1,13 @@
+# Database backups
+*.sql
+# Log files
+*.log
+# Environment variables
+.env
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Uploaded files by users (optional, remove if you want to keep dummy images)
+# uploads/
